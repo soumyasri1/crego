@@ -1,0 +1,38 @@
+/* MyNavbar.css */
+
+/* Navbar */
+.my-navbar {
+    padding: 15px 0;
+    background:linear-gradient(to top,rgb(47, 71, 71),rgb(38, 51, 60),rgb(26, 26, 26));
+    
+  }
+  
+  /* Active link */
+  .nav-link.active {
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    color: rgb(227, 165, 121) !important;
+}
+
+  
+ .borderless {
+    border: none !important; 
+    color: aliceblue !important;
+
+  }
+  .borderless:hover{
+    color: rgb(227, 165, 121) !important;
+  }
+ 
+#jsonTitle{
+    font-size:32px !important;
+    font-weight:bold;
+    color:rgb(248, 158, 14);
+}
+  
+#junctitle{
+    font-size:25px !important;
+    font-weight:bold;
+    color:rgb(20, 177, 234);
+}

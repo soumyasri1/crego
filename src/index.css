@@ -1,0 +1,15 @@
+
+
+  body {
+    padding-top: 66px;
+    background-color: #39393a !important;
+    
+  }
+  
+  
+  @media (max-width: 768px) {
+    body {
+      padding-top: 46px; 
+    }
+  }
+  

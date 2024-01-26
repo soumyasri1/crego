@@ -1,0 +1,64 @@
+/* Home.css */
+
+/* Styles for header */
+.mainDiv{
+  background:linear-gradient(to bottom,rgb(26, 47, 47),rgb(34, 55, 58),rgb(26, 36, 36)) ;
+}
+
+.json-title {
+  font-family: 'Times New Roman', Times, serif;
+    color: #FFA500; /* JSON title color */
+  }
+  .lead{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .junc-title {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4682B4; /* JUNCTION title color */
+  }
+  
+  /* Styles for main content */
+  .text-primary {
+    
+    color: #4682B4; /* Primary text color */
+  }
+  
+  /* Styles for Why Choose Us section */
+  .card {
+    border-radius: 10px !important; /* Rounded corners for cards */
+    transition: transform 0.3s ease-in-out; /* Smooth transition on hover */
+  }
+  .cardBody{
+
+border-radius: 10px !important; 
+font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Move the card slightly up on hover */
+    cursor: pointer;
+    background-color: #5986cb !important;
+    
+  }
+  
+  .card-body {
+    background:linear-gradient(to bottom,rgb(23, 34, 34),rgb(60, 73, 74),rgb(38, 43, 43)) ;/* Card body background color */
+    border-style: none !important;
+  }
+  
+  .card-title {
+    font-family: 'Times New Roman', Times, serif;
+    color: #9ad2ff; /* Card title color */
+  }
+  
+  .card-text {
+    color: #eff0f0; /* Card text color */
+  }
+  
+  
+  
+  /* Styles for footer */
+  .footer {
+    background-color: #343a40; /* Footer background color */
+    color: #fff; /* Footer text color */
+  }

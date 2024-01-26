@@ -1,0 +1,49 @@
+.black-bg {
+    background-color: rgb(79, 79, 82);
+}
+
+.black-form {
+    color: white!important;
+   
+}
+
+.white-text {
+    color: white;
+}
+.Output{
+    margin-left:40%;
+}
+ .form-control {
+    background-color: #2d2d2f !important;
+    color: rgb(245, 246, 246) !important;
+    width: 80% !important; 
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 12px;
+}
+.Add{
+    padding:2px !important;
+    background-color: rgb(21, 133, 155)!important;
+    margin-bottom: 12px;
+}
+.Submit{
+    padding:1px 10px !important;
+    background-color: rgb(9, 201, 77)!important;
+    margin-left:12px;
+    margin-bottom: 12px;
+}
+.Delete{
+    padding:1px 10px !important;
+    background-color: rgb(215, 70, 26)!important;
+    margin-left:2px;
+    margin-bottom: 12px;
+}
+.result-text{
+    font-size: 1.9rem !important;
+    color:rgb(248, 95, 0)
+}
+.result-json{
+    font-size: 1.2rem !important;
+    color:rgb(166, 255, 2)
+}
